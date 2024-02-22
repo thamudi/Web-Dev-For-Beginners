@@ -1,5 +1,6 @@
 - Translations
   - [English (United States)](./README)
+  - [العربية](./README.ar)
   - [বাংলা](./README.bn)
   - [中文(中国)](./README.zh-cn)
   - [中文(台湾)](./README.zh-tw)
